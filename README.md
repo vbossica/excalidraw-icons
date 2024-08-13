@@ -17,3 +17,11 @@ Excalidraw replicas of Microsoft/Azure/Dynamics related logos. Not an official M
 ![Microsoft Dynamics](./dynamics.png)
 
 **Items**: Sales, Customer Insights
+
+### Office icons
+
+**File**: [office.excalidrawlib](./office.excalidrawlib)
+
+![Office](./office.png)
+
+**Items**: Text documents
