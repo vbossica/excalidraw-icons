@@ -2,21 +2,17 @@
 
 Excalidraw replicas of Microsoft/Azure/Dynamics related logos. Not an official Microsoft package.
 
-### AI icons
+### Microsoft icons
 
-**File**: [ai.excalidrawlib](./ai.excalidrawlib)
+**File**: [microsoft.excalidrawlib](./microsoft.excalidrawlib)
 
-![AI](./ai.png)
+![Microsoft](./microsoft.png)
 
-**Items**: Azure AI Studio, Prompt Flow, Copilot.
+**Azure Items**: Azure AI Studio, Prompt Flow
 
-### Microsoft Dynamics icons
+**Dynamics Items**: Dynamics Customer Insights, Dynamics Sales
 
-**File**: [dynamics.excalidrawlib](./dynamics.excalidrawlib)
-
-![Microsoft Dynamics](./dynamics.png)
-
-**Items**: Sales, Customer Insights
+**Microsoft Items**: Microsoft Copilot, Microsoft Fabric
 
 ### Office icons
 
